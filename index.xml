@@ -13,9 +13,10 @@
  &lt;line x1="8" y1="12" x2="16" y2="12">&lt;/line>
  &lt;/svg>&lt;/a>&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Languages:&lt;/strong> Java (professional work), Python (personal projects), learning Go&lt;/li>
+&lt;li>&lt;strong>Languages:&lt;/strong> Java (professional work), Python (personal projects)&lt;/li>
 &lt;li>&lt;strong>Frameworks:&lt;/strong> Spring, FastAPI&lt;/li>
-&lt;li>&lt;strong>Databases:&lt;/strong> Cassandra, SQLite&lt;/li>
-&lt;li>&lt;strong>Tools:&lt;/strong> Git Nix, K8s, AWS, LLMs/MCPs&lt;/li>
+&lt;li>&lt;strong>Databases:&lt;/strong> Cassandra, SQLite
+&lt;strong>Tools:&lt;/strong> Git, Nix, K8s, AWS
+&lt;strong>AI Engineering:&lt;/strong> Custom MCP servers, AI agent development, Claude Code, Amazon Q&lt;/li>
 &lt;/ul>
-&lt;p>When I’m not coding, I enjoy exploring new technologies, mentoring, and playing video games (OSRS Is the current fave).&lt;/p></description></item></channel></rss>
+&lt;p>When I’m not coding, I enjoy white water rafting/kayaking, snowboarding, and playing video games (OSRS Is the current fave).&lt;/p></description></item></channel></rss>
