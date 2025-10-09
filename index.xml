@@ -1,19 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jade Fisher</title>
-    <link>http://jade.rip/</link>
-    <description>Recent content on Jade Fisher</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://jade.rip/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Jade</title>
-      <link>http://jade.rip/about/</link>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://jade.rip/about/</guid>
-      <description>&lt;p&gt;TODO Desc&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;a href=&#34;#what-i-do&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;a href=&#34;#skills&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Java (professional work), Python (personal projects), learning Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; Spring, FastAPI&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; Cassandra, SQLite&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Git Nix, K8s, AWS, LLMs/MCPs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When I’m not coding, I enjoy exploring new technologies, mentoring, and playing video games (OSRS Is the current fave).&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jade Fisher</title><link>https://jade.rip/</link><description>Recent content on Jade Fisher</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jade.rip/index.xml" rel="self" type="application/rss+xml"/><item><title>About Jade</title><link>https://jade.rip/about/</link><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate><guid>https://jade.rip/about/</guid><description>&lt;p>TODO Desc&lt;/p>
+&lt;h2 id="what-i-do">What I Do&lt;a href="#what-i-do" class="anchor" aria-hidden="true">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+ stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3">&lt;/path>
+ &lt;line x1="8" y1="12" x2="16" y2="12">&lt;/line>
+ &lt;/svg>&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>TODO&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills">Skills&lt;a href="#skills" class="anchor" aria-hidden="true">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+ stroke-linecap="round" stroke-linejoin="round">
+ &lt;path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3">&lt;/path>
+ &lt;line x1="8" y1="12" x2="16" y2="12">&lt;/line>
+ &lt;/svg>&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Languages:&lt;/strong> Java (professional work), Python (personal projects), learning Go&lt;/li>
+&lt;li>&lt;strong>Frameworks:&lt;/strong> Spring, FastAPI&lt;/li>
+&lt;li>&lt;strong>Databases:&lt;/strong> Cassandra, SQLite&lt;/li>
+&lt;li>&lt;strong>Tools:&lt;/strong> Git Nix, K8s, AWS, LLMs/MCPs&lt;/li>
+&lt;/ul>
+&lt;p>When I’m not coding, I enjoy exploring new technologies, mentoring, and playing video games (OSRS Is the current fave).&lt;/p></description></item></channel></rss>
