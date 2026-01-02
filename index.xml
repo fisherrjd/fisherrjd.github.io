@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jade Fisher</title><link>https://jade.rip/</link><description>Recent content on Jade Fisher</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jade.rip/index.xml" rel="self" type="application/rss+xml"/><item><title>Hi I am Jade!</title><link>https://jade.rip/about/</link><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate><guid>https://jade.rip/about/</guid><description>&lt;p>TODO Desc&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jade Fisher</title><link>https://jade.rip/</link><description>Recent content on Jade Fisher</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jade.rip/index.xml" rel="self" type="application/rss+xml"/><item><title>Hi I am Jade!</title><link>https://jade.rip/about/</link><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate><guid>https://jade.rip/about/</guid><description>&lt;p>I&amp;rsquo;m a Senior Software Engineer at Charter, where I work on high-scale backend systems managing over 1 billion daily API transactions. My role spans multiple key areas: leading the core gateway team that handles all API interactions with Charter, developing AI standards and SOPs that will be implemented across the organization, and building Dispatch — an intelligent ticket triage system that automates Jira workflow management.&lt;/p>
 &lt;h2 id="what-i-do">What I Do&lt;a href="#what-i-do" class="anchor" aria-hidden="true">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
  stroke-linecap="round" stroke-linejoin="round">
  &lt;path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3">&lt;/path>
  &lt;line x1="8" y1="12" x2="16" y2="12">&lt;/line>
  &lt;/svg>&lt;/a>&lt;/h2>
 &lt;ul>
-&lt;li>TODO&lt;/li>
+&lt;li>Lead and mentor junior developers on daily tasks, system architecture, and operational best practices&lt;/li>
+&lt;li>Facilitate bi-weekly release processes with automated MOP creation, deployment status tracking, and test automation&lt;/li>
+&lt;li>Implement AI functionality within engineering processes, including SOP creation and agent-driven workflows&lt;/li>
+&lt;li>Build and integrate new features with external partners (Disney, Peacock, Hulu) and internal Spectrum systems&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills">Skills&lt;a href="#skills" class="anchor" aria-hidden="true">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
  stroke-linecap="round" stroke-linejoin="round">
  &lt;path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3">&lt;/path>
  &lt;line x1="8" y1="12" x2="16" y2="12">&lt;/line>
  &lt;/svg>&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Languages:&lt;/strong> Java (professional work), Python (personal projects)&lt;/li>
-&lt;li>&lt;strong>Frameworks:&lt;/strong> Spring, FastAPI&lt;/li>
-&lt;li>&lt;strong>Databases:&lt;/strong> Cassandra, SQLite
-&lt;strong>Tools:&lt;/strong> Git, Nix, K8s, AWS
-&lt;strong>AI Engineering:&lt;/strong> Custom MCP servers, AI agent development, Claude Code, Amazon Q&lt;/li>
-&lt;/ul>
-&lt;p>When I’m not coding, I enjoy white water rafting/kayaking, snowboarding, and playing video games (OSRS Is the current fave).&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Languages:&lt;/strong> Java (professional), Python (personal projects), Go (learning), Nix
+&lt;strong>Frameworks:&lt;/strong> Spring, FastAPI&lt;br>
+&lt;strong>Databases:&lt;/strong> Cassandra, PostgreSQL, SQLite&lt;br>
+&lt;strong>Tools:&lt;/strong> Git, K8s, AWS&lt;/p></description></item></channel></rss>
